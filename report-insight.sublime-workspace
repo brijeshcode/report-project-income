@@ -1,0 +1,1982 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bg",
+				"bg-transparent \tBootstrap 4.4"
+			],
+			[
+				"textda",
+				"text-dark \tBootstrap 4.4"
+			],
+			[
+				"tablebor",
+				"table-borderless \tBootstrap 4.4"
+			],
+			[
+				"right",
+				"float-right \tBootstrap 4.4"
+			],
+			[
+				"table-da",
+				"table-secondary \tBootstrap 4.4"
+			],
+			[
+				"table-d",
+				"table-borderless \tBootstrap 4.4"
+			],
+			[
+				"table-bor",
+				"table-borderless \tBootstrap 4.4"
+			],
+			[
+				"p",
+				"p-0 \tBootstrap 4.4"
+			],
+			[
+				"bgd",
+				"bg-dark \tBootstrap 4.4"
+			],
+			[
+				"clien",
+				"clientId"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"DATA",
+				"database"
+			],
+			[
+				"btn",
+				"btn-info \tBootstrap 4.4"
+			],
+			[
+				"texda",
+				"text-dark \tBootstrap 4.4"
+			],
+			[
+				"su",
+				"bg-success \tBootstrap 4.4"
+			],
+			[
+				"to",
+				"toFixed"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"bg-d",
+				"badge-danger \tBootstrap 4.4"
+			],
+			[
+				"bg-",
+				"bg-transparent \tBootstrap 4.4"
+			],
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"warehouse",
+				"warehouse_id"
+			],
+			[
+				"emp",
+				"empty\tDefines an empty statement"
+			],
+			[
+				"arraym",
+				"array_merge"
+			],
+			[
+				"trans",
+				"transactions"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"labl",
+				"labels"
+			],
+			[
+				"text-da",
+				"text-dark \tBootstrap 4.4"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"tebres",
+				"table-responsive \tBootstrap 4.4"
+			],
+			[
+				"perms",
+				"permissionTypes"
+			],
+			[
+				"permiss",
+				"permission"
+			],
+			[
+				"customer",
+				"customer"
+			],
+			[
+				"tr",
+				"trans"
+			],
+			[
+				"filter",
+				"filtered"
+			],
+			[
+				"them",
+				"themeOptions"
+			],
+			[
+				"arr",
+				"arrTrans"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"this",
+				"this-"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"linin",
+				"list-inline-item \tBootstrap 4.4"
+			],
+			[
+				"tableres",
+				"table-responsive \tBootstrap 4.4"
+			],
+			[
+				"pam",
+				"payments"
+			],
+			[
+				"tablres",
+				"table-responsive \tBootstrap 4.4"
+			],
+			[
+				"wa",
+				"warehouseId"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"kitv",
+				"kitchenValue"
+			],
+			[
+				"kitch",
+				"KitchenValue"
+			],
+			[
+				"purchpay",
+				"PurchasePayment"
+			],
+			[
+				"cust",
+				"customer_id"
+			],
+			[
+				"temp",
+				"tempPaid"
+			],
+			[
+				"ivno",
+				"invoicePayment"
+			],
+			[
+				"Invoice",
+				"InvoicePayment"
+			],
+			[
+				"serpro",
+				"serviceProfit"
+			],
+			[
+				"prod",
+				"productProfit"
+			],
+			[
+				"class",
+				"removeClass"
+			],
+			[
+				"Expense",
+				"ExpensePayment"
+			],
+			[
+				"exp",
+				"expensePayment"
+			],
+			[
+				"amoun",
+				"amount_paid"
+			],
+			[
+				"bo",
+				"bold\tfont-weight"
+			],
+			[
+				"foreach",
+				"foreach\tforeach …"
+			],
+			[
+				"invpro",
+				"invoiceProduct"
+			],
+			[
+				"tablebo",
+				"table-bordered \tBootstrap 4.3 Class"
+			],
+			[
+				"bold",
+				"font-weight-bolder \tBootstrap 4.3 Class"
+			],
+			[
+				"invp",
+				"invoiceProduct"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"operaito",
+				"operation_id"
+			],
+			[
+				"operation",
+				"operation_amount"
+			],
+			[
+				"tblhi",
+				"tbl_history-"
+			],
+			[
+				"tbh",
+				"tblHistory"
+			],
+			[
+				"subsdi",
+				"subSpecialDisAmount"
+			],
+			[
+				"table-s",
+				"table-borderless \tBootstrap 4.3 Class"
+			],
+			[
+				"tables",
+				"table-striped \tBootstrap 4.3 Class"
+			],
+			[
+				"subs",
+				"subscriberId"
+			],
+			[
+				"deliver",
+				"deliveryPrice"
+			],
+			[
+				"Con",
+				"ContainerBox"
+			],
+			[
+				"container",
+				"containers"
+			],
+			[
+				"btnsuc",
+				"btn-outline-success \tBootstrap 4.3 Class"
+			],
+			[
+				"borei",
+				"border-right \tBootstrap 4.3 Class"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"mode",
+				"modal-title \tBootstrap 4.3 Class"
+			],
+			[
+				"currency",
+				"currency_id"
+			],
+			[
+				"Milage",
+				"Mileage"
+			],
+			[
+				"table",
+				"table-info \tBootstrap 4.3 Class"
+			],
+			[
+				"tranty",
+				"transType"
+			],
+			[
+				"trns",
+				"transType"
+			],
+			[
+				"led",
+				"ledger"
+			],
+			[
+				"card",
+				"card-body \tBootstrap 4.3 Class"
+			],
+			[
+				"invopro",
+				"invoiceProduct"
+			],
+			[
+				"ledger",
+				"ledgers"
+			],
+			[
+				"accou",
+				"accountId"
+			],
+			[
+				"currenc",
+				"currency_id"
+			],
+			[
+				"currid",
+				"currencyId"
+			],
+			[
+				"curren",
+				"currency_id"
+			],
+			[
+				"acoun",
+				"account_id"
+			],
+			[
+				"produi",
+				"productId"
+			],
+			[
+				"ra",
+				"rand"
+			],
+			[
+				"fied",
+				"fields"
+			],
+			[
+				"singl",
+				"singleLevels"
+			],
+			[
+				"curre",
+				"currency_id"
+			],
+			[
+				"Currenc",
+				"CurrencyRateList"
+			],
+			[
+				"cu",
+				"currency"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"requ",
+				"require_once"
+			],
+			[
+				"strepl",
+				"str_replace"
+			],
+			[
+				"col-md",
+				"col-md-1 \tBootstrap 4.3 Class"
+			],
+			[
+				"front",
+				"front_page"
+			],
+			[
+				"page",
+				"paged"
+			],
+			[
+				"colun",
+				"column"
+			],
+			[
+				"ful",
+				"fulwidthAds"
+			],
+			[
+				"texal",
+				"text-align\tproperty"
+			],
+			[
+				"employee",
+				"employee"
+			],
+			[
+				"purreturn",
+				"purchaseReturn"
+			],
+			[
+				"sidb",
+				"sidebarGP"
+			],
+			[
+				"ब",
+				"बृजेश"
+			],
+			[
+				"Wareho",
+				"WarehouseLogController"
+			],
+			[
+				"get",
+				"_GET"
+			],
+			[
+				"prilist",
+				"priceList"
+			],
+			[
+				"warhoid",
+				"warehouseId"
+			],
+			[
+				"place",
+				"placeholder"
+			],
+			[
+				"wareho",
+				"warehouseId"
+			],
+			[
+				"arramer",
+				"array_merge"
+			],
+			[
+				"priclit",
+				"priceList"
+			],
+			[
+				"cls",
+				"colspan\tAttr"
+			],
+			[
+				"clieid",
+				"clientId"
+			],
+			[
+				"reci",
+				"receipt"
+			],
+			[
+				"patype",
+				"PaymentType"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/config/autoload.php",
+			"settings":
+			{
+				"buffer_size": 4144,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/controllers/Projects.php",
+			"settings":
+			{
+				"buffer_size": 2575,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/projects/edit-milestone.php",
+			"settings":
+			{
+				"buffer_size": 2716,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/models/Project.php",
+			"settings":
+			{
+				"buffer_size": 4171,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/projects/view.php",
+			"settings":
+			{
+				"buffer_size": 8698,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/models/Milestone.php",
+			"settings":
+			{
+				"buffer_size": 1735,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/routes.php",
+			"settings":
+			{
+				"buffer_size": 1154,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"list package",
+				"Package Control: List Packages"
+			],
+			[
+				"paclist",
+				"Package Control: List Packages"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"reane",
+				"Rename File"
+			],
+			[
+				"key",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"packalist",
+				"Package Control: List Packages"
+			],
+			[
+				"removepac",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packagelist",
+				"Package Control: List Packages"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"packagin",
+				"Package Control: Install Package"
+			],
+			[
+				"renam",
+				"Rename File"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"dele",
+				"ANF: Delete Current File"
+			],
+			[
+				"delete",
+				"ANF: Delete Current File"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"delet",
+				"ANF: Delete Current File"
+			],
+			[
+				"rean",
+				"Rename File"
+			],
+			[
+				"Snippet: ",
+				"Snippet: REQUEST['…']"
+			],
+			[
+				"Snippet: fun",
+				"Snippet: function __construct"
+			],
+			[
+				"pacocont",
+				"Package Control: Install Package"
+			],
+			[
+				"toggsideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"toggmap",
+				"View: Toggle Minimap"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"togsidb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"nwe",
+				"ANF: New File"
+			],
+			[
+				"togo",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"toggmin",
+				"View: Toggle Minimap"
+			],
+			[
+				"toggsidb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"toggm",
+				"View: Toggle Minimap"
+			],
+			[
+				"toggsid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"closea",
+				"File: Close All"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"cloa",
+				"File: Close All"
+			],
+			[
+				"saveall",
+				"File: Save All"
+			],
+			[
+				"CLOAS",
+				"File: Close All"
+			],
+			[
+				"SAVEALL",
+				"File: Save All"
+			],
+			[
+				"CLOSEALL",
+				"File: Close All"
+			],
+			[
+				"SAVE",
+				"File: Save All"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"snippet: php",
+				"Snippet: blade-php"
+			],
+			[
+				"packconin",
+				"Package Control: Install Package"
+			],
+			[
+				"togg",
+				"View: Toggle Menu"
+			],
+			[
+				"packcontrol",
+				"Package Control: List Packages"
+			],
+			[
+				"toggme",
+				"View: Toggle Menu"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"snipcard",
+				"Snippet: Card"
+			],
+			[
+				"snipform",
+				"Snippet: Form"
+			],
+			[
+				"delte",
+				"File: Delete"
+			],
+			[
+				"card",
+				"Snippet: Card"
+			],
+			[
+				"packageconlist",
+				"Package Control: List Packages"
+			],
+			[
+				"packageconin",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"renalm",
+				"Rename File"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 193.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/BRIJESH/brijesh-report",
+		"/var/www/html/BRIJESH/brijesh-report/application",
+		"/var/www/html/BRIJESH/brijesh-report/application/controllers",
+		"/var/www/html/BRIJESH/brijesh-report/application/models",
+		"/var/www/html/BRIJESH/brijesh-report/application/views",
+		"/var/www/html/BRIJESH/brijesh-report/application/views/projects"
+	],
+	"file_history":
+	[
+		"/tmp/fz3temp-2/page_candidate.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/controllers/Milestones.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/views/projects/create.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/views/templates/header.php",
+		"/home/brijesh/gkp electric/Gorakhpur electricity details.txt",
+		"/var/www/html/BRIJESH/brijesh-report/application/views/projects/edit.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/views/projects/index.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/config/database.php",
+		"/var/www/html/BRIJESH/brijesh-report/.htaccess",
+		"/etc/apache2/apache2.conf",
+		"/var/www/html/BRIJESH/brijesh-report/application/config/config.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/models/Client.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/controllers/Gateways.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/views/templates/footer.php",
+		"/var/www/html/Free/1-david/accounts/upgrade/accounts-with-laravel-6/app/Models/Setup/ExpenseType.php",
+		"/var/www/html/Free/Bids-sample/front-back-end.php",
+		"/var/www/html/Free/1-david/accounts/temp-for-db/config.php",
+		"/home/brijesh/helpfull  camands/lamp installation.txt",
+		"/home/brijesh/helpfull  camands/mysql installation.txt",
+		"/home/brijesh/helpfull  camands/sqlite-installation.txt",
+		"/var/www/html/Free/0-ftps and detilas/9-Ken A..txt",
+		"/etc/mysql/my.cnf",
+		"/media/brijesh/Storage/ubuntu-OS - update backup/helpfull  camands/sublime-backups/text.txt",
+		"/var/www/html/Free/9-Ken A/autozuri-video-module/routes/web.php",
+		"/media/brijesh/Storage/ubuntu-OS - update backup/helpfull  camands/sublime-backups/settings.txt",
+		"/home/brijesh/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/media/brijesh/Storage/ubuntu-OS - update backup/helpfull  camands/sublime-backups/key-binding.txt",
+		"/home/brijesh/.config/sublime-text-3/Packages/AutoBackups/AutoBackups (Linux).sublime-settings",
+		"/home/brijesh/.config/sublime-text-3/Packages/User/AutoBackups (Linux).sublime-settings",
+		"/var/www/html/brijesh-gtsolutions/server-details.txt",
+		"/tmp/fz3temp-2/woofood-plugin.pot",
+		"/var/www/html/Free/11-Miquel T./woofood/wordpress/wp-content/plugins/woofood-plugin/woofood-connection.php",
+		"/var/www/html/Free/11-Miquel T./woofood/woofoodplugins-activated/woofood-plugin/woofood-connection.php",
+		"/home/brijesh/Downloads/pdtl.txt",
+		"/var/www/html/Free/test/index.html",
+		"/home/brijesh/html.html",
+		"/var/www/html/BRIJESH/brijesh-report/application/views/projects/view.php",
+		"/var/www/html/learning/laravel/learning-laravel-vue/resources/views/welcome.blade.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/views/templates/nav.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/controllers/Currency.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/controllers/Banks.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/models/Project.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/views/clients/create.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/controllers/Projects.php",
+		"/var/www/html/learning/laravel/learning-laravel-vue/resources/views/layouts/master.blade.php",
+		"/var/www/html/learning/laravel/learning-laravel-vue/resources/views/home.blade.php",
+		"/var/www/html/learning/laravel/learning-laravel-vue/resources/js/bootstrap.js",
+		"/var/www/html/learning/laravel/learning-laravel-vue/resources/sass/app.scss",
+		"/var/www/html/learning/laravel/learning-laravel-vue/public/css/app.css",
+		"/var/www/html/learning/laravel/learning-laravel-vue/resources/sass/_variables.scss",
+		"/var/www/html/learning/laravel/learning-laravel-vue/resources/js/app.js",
+		"/var/www/html/learning/laravel/learning-laravel-vue/package.json",
+		"/var/www/html/learning/laravel/learning-laravel-vue/public/mix-manifest.json",
+		"/var/www/html/learning/laravel/learning-laravel-vue/public/js/app.js",
+		"/var/www/html/learning/laravel/learning-laravel-vue/resources/views/auth/register.blade.php",
+		"/var/www/html/learning/laravel/learning-laravel-vue/resources/views/auth/login.blade.php",
+		"/var/www/html/learning/laravel/learning-laravel-vue/resources/views/layouts/app.blade.php",
+		"/var/www/html/learning/laravel/learning-laravel-vue/.env",
+		"/var/www/html/learning/laravel/learning-laravel-vue/node_modules/admin-lte/package.json",
+		"/var/www/html/learning/laravel/learning-laravel-vue/package-lock.json",
+		"/var/www/html/learning/laravel/learning-laravel-vue/composer.json",
+		"/var/www/html/learning/laravel/learning-laravel-vue/vendor/almasaeed2010/adminlte/composer.json",
+		"/var/www/html/learning/laravel/learning-laravel-vue/vendor/almasaeed2010/adminlte/build/js/Dropdown.js",
+		"/var/www/html/learning/laravel/learning-laravel-vue/vendor/almasaeed2010/adminlte/package.json",
+		"/var/www/html/learning/laravel/learning-laravel-vue/vendor/almasaeed2010/adminlte/package-lock.json",
+		"/var/www/html/learning/laravel/laravel-vue-learing/lara-view/resources/lang/en/validation.php",
+		"/var/www/html/learning/laravel/laravel-vue-learing/lara-view/resources/lang/en/auth.php",
+		"/var/www/html/learning/laravel/laravel-vue-learing/lara-view/resources/lang/en/pagination.php",
+		"/var/www/html/learning/laravel/laravel-vue-learing/lara-view/database/seeds/DatabaseSeeder.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/views/clients/index.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/controllers/Clients.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/views/clients/edit.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/models/Gateway.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/models/ProjectSource.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/models/ProjectStatus.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/config/routes.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/views/PaymentGateways/index.php",
+		"/var/www/html/BRIJESH/brijesh-report/public/css/bootstrap.min.css",
+		"/var/www/html/BRIJESH/brijesh-report/application/models/Bank.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/controllers/Welcome.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/views/projects/status/index.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/controllers/Status.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/config/autoload.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/views/projects/sources/index.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/controllers/ProjectsFrom.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/views/project/source/index.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/views/currency/index.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/views/banks/index.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/models/Currency_model.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/views/home.php",
+		"/var/www/html/Free/2-Nicolas/exchange2/exchange2-local/application/views/admin/left-sidebar.php",
+		"/var/www/html/Free/2-Nicolas/exchange2/exchange2-local/application/views/admin/addcurrency.php",
+		"/var/www/html/Free/2-Nicolas/exchange2/exchange2-local/application/views/admin/header.php",
+		"/var/www/html/BRIJESH/brijesh-report/application/index.html",
+		"/var/www/html/Free/2-Nicolas/exchange2/exchange2-local/application/views/admin/edituser.php",
+		"/tmp/fz3temp-2/.htaccess",
+		"/var/www/html/Free/2-Nicolas/exchange2/exchange2-local/application/config/config.php",
+		"/var/www/html/Free/2-Nicolas/exchange2/exchange2-local/application/config/routes.php",
+		"/var/www/html/BRIJESH/electricty consumption calculator/index.html",
+		"/var/www/html/BRIJESH/other/payment-table.php",
+		"/var/www/html/Free/1-david/accounts/upgrade/accounts-with-laravel-6/app/Models/Setup/Item.php",
+		"/var/www/html/Free/1-david/accounts/upgrade/accounts-with-laravel-6/app/Models/Transactions/PurchaseReturnItem.php",
+		"/var/www/html/Free/1-david/accounts/upgrade/accounts-with-laravel-6/resources/views/admin/transaction/purchase-return/show.blade.php",
+		"/var/www/html/Free/1-david/accounts/upgrade/accounts-with-laravel-6/database/migrations/2020_02_12_133538_create_purchase_return_items_table.php",
+		"/var/www/html/Free/1-david/accounts/upgrade/accounts-with-laravel-6/database/migrations/2020_02_12_133526_create_purchase_returns_table.php",
+		"/var/www/html/Free/1-david/accounts/upgrade/accounts-with-laravel-6/app/Models/Transactions/PurchaseReturn.php",
+		"/var/www/html/Free/1-david/accounts/upgrade/accounts-with-laravel-6/app/Http/Controllers/Admin/Warehouses/WarehouseStockController.php",
+		"/var/www/html/Free/1-david/accounts/upgrade/accounts-with-laravel-6/resources/views/admin/warehouses/stock-adjust/create.blade.php",
+		"/media/brijesh/Storage/study/my code and helps/designs/html css/cources in web dovelopement/cources.txt",
+		"/media/brijesh/Storage/stes.txt",
+		"/media/brijesh/Storage/study/my code and helps/javascript/imageswap/mylogic.js",
+		"/media/brijesh/Storage/study/my code and helps/live works/tautoril/ranking database/ranking.txt",
+		"/media/brijesh/Storage/study/my code and helps/ideas/007 24-feb-2016/second view.txt",
+		"/media/brijesh/Storage/ubuntu work backup/html - 3rd aug 2019/brijesh-gtsolutions/server-details.txt",
+		"/var/www/html/Free/1-david/accounts/upgrade/accounts-with-laravel-6/public/js/purchase-return.js",
+		"/var/www/html/Free/1-david/accounts/upgrade/accounts-with-laravel-6/public/js/invoice.js",
+		"/var/www/html/Free/1-david/accounts/upgrade/accounts-with-laravel-6/resources/views/partials/main/footer.blade.php",
+		"/var/www/html/Free/1-david/accounts/upgrade/accounts-with-laravel-6/public/js/warehouse-adjust.js",
+		"/var/www/html/Free/1-david/accounts/upgrade/accounts-with-laravel-6/app/Http/Controllers/Admin/Warehouses/StockAdjustController.php",
+		"/var/www/html/Free/1-david/accounts/upgrade/accounts-with-laravel-6/app/MyHelpers/Options.php",
+		"/var/www/html/Free/1-david/accounts/upgrade/accounts-with-laravel-6/app/MyHelpers/HtmlCreator.php",
+		"/var/www/html/Free/1-david/accounts/upgrade/accounts-with-laravel-6/resources/views/admin/transaction/purchase-return/index.blade.php",
+		"/var/www/html/Free/1-david/accounts/upgrade/accounts-with-laravel-6/app/MyHelpers/Project.php",
+		"/var/www/html/Free/2-Nicolas/accounts/01 single company/database/migrations/2019_10_22_041841_create_purchase_return_items_table.php",
+		"/var/www/html/Free/2-Nicolas/accounts/01 single company/database/migrations/2019_10_22_041129_create_purchase_returns_table.php",
+		"/var/www/html/Free/1-david/accounts/upgrade/accounts-with-laravel-6/app/Models/Transactions/InvoicePayment.php",
+		"/var/www/html/Free/1-david/accounts/upgrade/accounts-with-laravel-6/app/Http/Controllers/Admin/Reports/DaliyCashController.php",
+		"/var/www/html/Free/1-david/accounts/club-account-code-v-2.0/app/controllers/homePage.php"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"th",
+			"name=\"milestone[",
+			"milestone[",
+			"client_id",
+			"name",
+			"project",
+			"h2",
+			"milestone",
+			"h6",
+			"p",
+			"httpd",
+			"WooFood for WooCommerce",
+			"active_plugins",
+			"family",
+			"projects",
+			"project_status",
+			"description",
+			"disscus_on",
+			"a",
+			"h3",
+			"md",
+			"source_id",
+			"currency",
+			"sources",
+			"clients",
+			"client_currency_id",
+			"payment_through_id",
+			"status_id",
+			"project_source_id",
+			"source_id",
+			"status_id",
+			"source_id",
+			"date",
+			"<form",
+			"project_status",
+			"project_from_id",
+			"project_client",
+			"project_status",
+			"status",
+			"2",
+			"project_client",
+			"source",
+			"client_name",
+			"navbar-expand .navbar-nav .dropdown-menu {",
+			".navbar-expand .navbar-nav .nav-link",
+			"user",
+			"\"./",
+			"bootstrap",
+			"clients",
+			"client",
+			"Clients",
+			"client",
+			"clients",
+			"bank",
+			"banks",
+			"Bank",
+			"client",
+			"clients",
+			"client",
+			"Clients",
+			"clients",
+			"Clients",
+			"h1",
+			"payment_gateways",
+			"source_id",
+			"text",
+			"title",
+			"exampleSelect1",
+			"source",
+			"Client",
+			"Name",
+			"source",
+			"client_name",
+			"ProjectStatus",
+			"client",
+			"clients",
+			"client",
+			"Client",
+			"ProjectsFrom",
+			"source",
+			"sources",
+			"clients",
+			"client",
+			"bank",
+			"a",
+			"banks",
+			"currency",
+			"$selectedtab",
+			"td"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/config/autoload.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4116,
+								4116
+							]
+						],
+						"settings":
+						{
+							"SL.13.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.21.region_keys":
+							[
+							],
+							"SL.22.region_keys":
+							[
+							],
+							"SL.24.region_keys":
+							[
+							],
+							"SL.36.region_keys":
+							[
+							],
+							"SL.91.region_keys":
+							[
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2647.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/controllers/Projects.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2469,
+								2469
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.17.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.40.region_keys":
+							[
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1401.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/views/projects/edit-milestone.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2716,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								649,
+								649
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/models/Project.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1866,
+								1866
+							]
+						],
+						"settings":
+						{
+							"SL.20.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.29.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 799.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/views/projects/view.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2953,
+								2953
+							]
+						],
+						"settings":
+						{
+							"SL.16.region_keys":
+							[
+							],
+							"SL.28.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1679.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "application/models/Milestone.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1735,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								742,
+								742
+							]
+						],
+						"settings":
+						{
+							"SL.26.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 205.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "application/config/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1145,
+								1145
+							]
+						],
+						"settings":
+						{
+							"SL.19.region_keys":
+							[
+							],
+							"SL.28.region_keys":
+							[
+							],
+							"SL.67.region_keys":
+							[
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 157.0
+	},
+	"pinned_build_system": "",
+	"project": "report-insight.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"route",
+				"application/config/routes.php"
+			],
+			[
+				"route.php",
+				"application/config/routes.php"
+			],
+			[
+				"emplates/heade",
+				"application/views/templates/header.php"
+			],
+			[
+				"projects/create",
+				"application/views/projects/create.php"
+			],
+			[
+				"modelsproject.php",
+				"application/models/Project.php"
+			],
+			[
+				"nav",
+				"application/views/templates/nav.php"
+			],
+			[
+				"aut",
+				"application/config/autoload.php"
+			],
+			[
+				"auto",
+				"application/config/autoload.php"
+			],
+			[
+				"projects/sources/index",
+				"application/views/projects/sources/index.php"
+			],
+			[
+				"autolo",
+				"application/config/autoload.php"
+			],
+			[
+				"templates/footer",
+				"application/views/templates/footer.php"
+			],
+			[
+				"templates/header",
+				"application/views/templates/header.php"
+			],
+			[
+				"cation/controllers/Currency.php",
+				"application/controllers/Currency.php"
+			],
+			[
+				"purcretuitemtab",
+				"database/migrations/2020_02_12_133538_create_purchase_return_items_table.php"
+			],
+			[
+				"purrettable",
+				"database/migrations/2020_02_12_133526_create_purchase_returns_table.php"
+			],
+			[
+				"stocadjcreate",
+				"resources/views/admin/warehouses/stock-adjust/create.blade.php"
+			],
+			[
+				"projec",
+				"app/MyHelpers/Project.php"
+			],
+			[
+				"project",
+				"app/MyHelpers/Project.php"
+			],
+			[
+				"option",
+				"app/MyHelpers/Options.php"
+			],
+			[
+				"htmlco",
+				"app/MyHelpers/HtmlCreator.php"
+			],
+			[
+				"expeeindebl",
+				"resources/views/admin/transaction/expense/index.blade.php"
+			],
+			[
+				"expensecont",
+				"app/Http/Controllers/Admin/Transactions/ExpenseController.php"
+			],
+			[
+				"web.php",
+				"routes/web.php"
+			],
+			[
+				"CustomerDue",
+				"app/Http/Controllers/Admin/Transactions/InvCustomerDueController.php"
+			],
+			[
+				"\\Models\\Transactions\\custdue",
+				"app/Models/Transactions/InvoiceCustomerDue.php"
+			],
+			[
+				"opion",
+				"app/MyHelpers/Options.php"
+			],
+			[
+				"cashcon",
+				"app/Http/Controllers/Admin/Reports/DaliyCashController.php"
+			],
+			[
+				"selectmat",
+				"public/lib/select2-bootstrap4/seletct2-materialize.css"
+			],
+			[
+				"SettingController",
+				"app/Http/Controllers/Admin/Settings/SettingController.php"
+			],
+			[
+				"settinlist",
+				"resources/views/admin/settings/setting-list.blade.php"
+			],
+			[
+				"nav.blade",
+				"resources/views/partials/main/navbar.blade.php"
+			],
+			[
+				"invcouduepayco",
+				"app/Http/Controllers/Admin/Transactions/InvCustomerDuePaymentController.php"
+			],
+			[
+				"sidb",
+				"resources/views/partials/main/sidebar.blade.php"
+			],
+			[
+				"banktrcont",
+				"app/Http/Controllers/Admin/Transactions/BankTransferController.php"
+			],
+			[
+				"PartnerSharePayment",
+				"app/Http/Controllers/Admin/Transactions/PartnerSharePaymentController.php"
+			],
+			[
+				"PurchasePaymentcon",
+				"app/Http/Controllers/Admin/Transactions/PurchasePaymentController.php"
+			],
+			[
+				"OtherServicePaymentcon",
+				"app/Http/Controllers/Admin/Transactions/OtherServicePaymentController.php"
+			],
+			[
+				"ransactionsinvpacon",
+				"app/Http/Controllers/Admin/Transactions/InvoicePaymentController.php"
+			],
+			[
+				"sidbar",
+				"resources/views/partials/main/sidebar.blade.php"
+			],
+			[
+				"invoicecreate",
+				"resources/views/admin/transaction/invoice/create.blade.php"
+			],
+			[
+				"system-info",
+				"resources/views/admin/settings/system-info.blade.php"
+			],
+			[
+				"web.ph",
+				"routes/web.php"
+			],
+			[
+				"setting",
+				"resources/views/admin/settings/setting-list.blade.php"
+			],
+			[
+				"sidebarbla",
+				"resources/views/partials/main/sidebar.blade.php"
+			],
+			[
+				"app.bla",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"login",
+				"resources/views/auth/login.blade.php"
+			],
+			[
+				"invoicindeb",
+				"resources/views/admin/transaction/invoice/index.blade.php"
+			],
+			[
+				"html",
+				"app/MyHelpers/HtmlCreator.php"
+			],
+			[
+				"invoiceine",
+				"resources/views/admin/transaction/invoice/index.blade.php"
+			],
+			[
+				"style.css",
+				"public/css/style.css"
+			],
+			[
+				"reportexpen",
+				"resources/views/admin/reports/expense.blade.php"
+			],
+			[
+				"invoiceeditb",
+				"resources/views/admin/transaction/invoice/edit.blade.php"
+			],
+			[
+				"exportinvo",
+				"app/Exports/History/InvoiceExport.php"
+			],
+			[
+				"invcon",
+				"app/Http/Controllers/Admin/Reports/InvoicesController.php"
+			],
+			[
+				"invoindebla",
+				"resources/views/admin/transaction/invoice/index.blade.php"
+			],
+			[
+				"invoietable",
+				"database/migrations/2019_11_05_104616_create_invoices_table.php"
+			],
+			[
+				"invoice.php",
+				"app/Models/Transactions/Invoice.php"
+			],
+			[
+				"inviophp",
+				"app/Models/Transactions/Invoice.php"
+			],
+			[
+				"invoiceedit",
+				"resources/views/admin/transaction/invoice/edit.blade.php"
+			],
+			[
+				"invocon",
+				"app/Http/Controllers/Admin/Transactions/InvoiceController.php"
+			],
+			[
+				"invoicitemphp",
+				"app/Models/Transactions/InvoiceItem.php"
+			],
+			[
+				"style",
+				"public/css/style.css"
+			],
+			[
+				"reoprtbankb.",
+				"resources/views/admin/reports/bank.blade.php"
+			],
+			[
+				"duepaymentcon",
+				"app/Http/Controllers/Admin/Transactions/InvCustomerDuePaymentController.php"
+			],
+			[
+				"cusduepaind",
+				"resources/views/admin/transaction/customer-due-payment/index.blade.php"
+			],
+			[
+				"invpaycon",
+				"app/Http/Controllers/Admin/Transactions/InvCustomerDuePaymentController.php"
+			],
+			[
+				"invpacon",
+				"app/Http/Controllers/Admin/Transactions/InvoicePaymentController.php"
+			],
+			[
+				"invcusducon",
+				"app/Http/Controllers/Admin/Transactions/InvCustomerDueController.php"
+			],
+			[
+				"custdueinde",
+				"resources/views/admin/transaction/customer-due/index.blade.php"
+			],
+			[
+				"invcus",
+				"app/Http/Controllers/Admin/Transactions/InvCustomerDueController.php"
+			],
+			[
+				"Transactions\\InvoicePaymentController",
+				"app/Http/Controllers/Admin/Transactions/InvoicePaymentController.php"
+			],
+			[
+				"invoiceexp",
+				"resources/views/admin/transaction/invoice-payment/index.blade.php"
+			],
+			[
+				"invpaycont",
+				"app/Http/Controllers/Admin/Transactions/InvoicePaymentController.php"
+			],
+			[
+				"invpayindeb",
+				"resources/views/admin/transaction/invoice-payment/index.blade.php"
+			],
+			[
+				"seeder",
+				"database/seeds/SetupMultiTablesSeeder.php"
+			],
+			[
+				"invoicindex",
+				"resources/views/admin/transaction/invoice/index.blade.php"
+			],
+			[
+				"invoicinde",
+				"resources/views/admin/transaction/invoice/index.blade.php"
+			],
+			[
+				"expenscon",
+				"app/Http/Controllers/Admin/Reports/ExpenseController.php"
+			],
+			[
+				"expenspaymcon",
+				"app/Http/Controllers/Admin/Transactions/ExpensePaymentController.php"
+			],
+			[
+				"expensepaycon",
+				"app/Http/Controllers/Admin/Transactions/ExpensePaymentController.php"
+			],
+			[
+				"expensecon",
+				"app/Http/Controllers/Admin/Transactions/ExpenseController.php"
+			],
+			[
+				"expensepaycont",
+				"app/Http/Controllers/Admin/Transactions/ExpensePaymentController.php"
+			],
+			[
+				"expense",
+				"resources/views/admin/transaction/expense/index.blade.php"
+			],
+			[
+				"expeindeb",
+				"resources/views/admin/setup/expense-type/index.blade.php"
+			],
+			[
+				"roleedi",
+				"resources/views/admin/advance/role/edit.blade.php"
+			],
+			[
+				"rolecreate",
+				"resources/views/admin/advance/role/create.blade.php"
+			],
+			[
+				"rolecont",
+				"app/Http/Controllers/Admin/Advance/RoleController.php"
+			],
+			[
+				"expeseinde",
+				"resources/views/admin/transaction/expense/index.blade.php"
+			],
+			[
+				"invoiceinde",
+				"resources/views/admin/transaction/invoice/index.blade.php"
+			],
+			[
+				"expecont",
+				"app/Http/Controllers/Admin/Transactions/ExpenseController.php"
+			],
+			[
+				"expensephp",
+				"app/Models/Transactions/Expense.php"
+			],
+			[
+				"reporsupp",
+				"resources/views/admin/reports/supplier.blade.php"
+			],
+			[
+				"expne",
+				"app/Models/Transactions/Expense.php"
+			],
+			[
+				"optio",
+				"app/MyHelpers/Options.php"
+			],
+			[
+				"web.",
+				"routes/web.php"
+			],
+			[
+				"els\\Transactions\\PurchasePay",
+				"app/Models/Transactions/PurchasePayment.php"
+			],
+			[
+				"invoiceindeb",
+				"resources/views/admin/transaction/invoice/index.blade.php"
+			],
+			[
+				"expensetypind",
+				"resources/views/admin/setup/expense-type/index.blade.php"
+			],
+			[
+				"expetypcon",
+				"app/Http/Controllers/Admin/Setup/ExpenseTypeController.php"
+			],
+			[
+				"create_banks",
+				"database/migrations/2019_11_01_155956_create_banks_table.php"
+			],
+			[
+				"expensetypeinde",
+				"resources/views/admin/setup/expense-type/index.blade.php"
+			],
+			[
+				"exptyp",
+				"app/Models/Setup/ExpenseType.php"
+			],
+			[
+				"home",
+				"resources/views/home.blade.php"
+			],
+			[
+				"pro",
+				"app/MyHelpers/Project.php"
+			],
+			[
+				"expen",
+				"app/Http/Controllers/Admin/Setup/ExpenseTypeController.php"
+			],
+			[
+				"usereditblad",
+				"resources/views/admin/advance/user/edit.blade.php"
+			],
+			[
+				"permsse",
+				"database/seeds/PermissionRoleSeeder.php"
+			],
+			[
+				"invocond",
+				"app/Models/Transactions/InvoiceCustomerDuePayment.php"
+			],
+			[
+				"globa",
+				"app/MyHelpers/Global.php"
+			],
+			[
+				"userindex",
+				"resources/views/admin/advance/user/index.blade.php"
+			],
+			[
+				"rolecon",
+				"app/Http/Controllers/Admin/Advance/RoleController.php"
+			],
+			[
+				"permcont",
+				"app/Http/Controllers/Admin/Advance/PermissionController.php"
+			],
+			[
+				"invoicecnot",
+				"app/Http/Controllers/Admin/Transactions/InvoiceController.php"
+			],
+			[
+				"warehoustocbla",
+				"resources/views/admin/warehouses/stock.blade.php"
+			],
+			[
+				"proje",
+				"app/MyHelpers/Project.php"
+			],
+			[
+				"sidebar",
+				"resources/views/partials/main/sidebar.blade.php"
+			],
+			[
+				"settingsinfo",
+				"resources/views/admin/settings/system-info.blade.php"
+			],
+			[
+				"settingblade",
+				"resources/views/admin/settings/setting-list.blade.php"
+			],
+			[
+				"globsite",
+				"resources/views/admin/settings/globle-site/site.blade.php"
+			],
+			[
+				"mainnav",
+				"resources/views/partials/main/navbar.blade.php"
+			],
+			[
+				"adjsuphp",
+				"app/Models/Warehouses/StockAdjust.php"
+			],
+			[
+				"warehstocadind",
+				"resources/views/admin/warehouses/stock-adjust/index.blade.php"
+			],
+			[
+				"otherserpay",
+				"app/Models/Transactions/OtherServicePayment.php"
+			],
+			[
+				"servicpayinde",
+				"resources/views/admin/transaction/service-payment/index.blade.php"
+			],
+			[
+				"banktrainde",
+				"resources/views/admin/transaction/bank-transfer/index.blade.php"
+			],
+			[
+				"expensypcon",
+				"app/Http/Controllers/Admin/Transactions/ExpensePaymentController.php"
+			],
+			[
+				"expensepayinde",
+				"resources/views/admin/transaction/expense-payment/index.blade.php"
+			],
+			[
+				"Setup\\Customer",
+				"app/Models/Setup/Customer.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/html/Free/1-david/accounts/upgrade/accounts-with-laravel-6/david-laravel-6.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
